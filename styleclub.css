@@ -1,0 +1,110 @@
+body{
+    background-color: black;
+}
+
+.house{
+    position: absolute;
+    background-color: #3f3e3e;
+    top: 10px;
+    left: 10px;
+    width: 60px;
+    height: 60px;
+    border-radius: 7px;
+    padding: 3px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    color: white;
+    font-size: 25px;
+}
+
+.house:hover{
+    background-color: #242424;
+}
+
+.line{
+    background-color: gray;
+    position: absolute;
+    top: 27em;
+    width: 119em;
+    height: 10px;
+}
+
+.trait1{
+    background-color: gray;
+    position: absolute;
+    top: 24em;
+    left: 18em;
+    width: 0.8em;
+    height: 7em;
+}
+
+.trait2{
+    background-color: gray;
+    position: absolute;
+    top: 24em;
+    left: 59em;
+    width: 0.8em;
+    height: 7em;
+}
+
+.trait3{
+    background-color: gray;
+    position: absolute;
+    top: 24em;
+    left: 100em;
+    width: 0.8em;
+    height: 7em;
+}
+
+.barca{
+    width: 7em;
+    height: 7em;
+    position: absolute;
+    top: 16em;
+    left: 14.9em;
+}
+
+.psg{
+    width: 7em;
+    height: 7em;
+    position: absolute;
+    top: 16em;
+    left: 55.9em;
+}
+
+.im{
+    width: 7em;
+    height: 7em;
+    position: absolute;
+    top: 16em;
+    left: 96.9em;
+}
+
+.t1{
+    color: white;
+    font-family: Arial;
+    position: absolute;
+    top: 21em;
+    left: 6.4em;
+    font-size: 1.5em;
+}
+
+.t2{
+    color: white;
+    font-family: Arial;
+    position: absolute;
+    top: 21em;
+    left: 34em;
+    font-size: 1.5em;
+}
+
+.t3{
+    color: white;
+    font-family: Arial;
+    position: absolute;
+    top: 21em;
+    left: 61em;
+    font-size: 1.5em;
+}
